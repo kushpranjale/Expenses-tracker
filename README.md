@@ -1,5 +1,5 @@
 # Expenses-tracker
-front-end: angular 8, amgular material
+front-end: angular 8, angular material
 backend: NodeJs, ExpressJs, MongoDB
 # command for run this project
 npm run server
